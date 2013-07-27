@@ -6,7 +6,7 @@ on init
     # for testing
     
     mkdir /mnt/sdcard 0000 system system
-    symlink /mnt/sdcard /sdcar
+    symlink /mnt/sdcard /sdcard
 
     export EXTERNAL_STORAGE_USB /mnt/usbdisk
 
